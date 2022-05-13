@@ -1,4 +1,4 @@
-# (please view Al-haifa directory -> src, to view boundaries and entities
+# (please view AL-HAIFA directory -> src, to view boundaries and entities
 # EL-HAIFA-project
 GUI-PROJECT
 # El-haifa
